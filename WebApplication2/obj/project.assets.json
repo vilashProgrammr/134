@@ -13131,11 +13131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Welcome\\WebApplication2\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Welcome\\WebApplication2\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Welcome\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

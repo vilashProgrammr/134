@@ -25,6 +25,8 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies/Details/5
+        //THIS IS DJ
+
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,6 +45,7 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies/Create
+        //dj CHANGES
         public IActionResult Create()
         {
             return View();
